@@ -1,0 +1,156 @@
+
+header{
+    background-color: rgb(236, 215, 112);
+    padding: 20px;
+    text-align:center;
+    margin: auto;
+    margin-bottom: 1rem;
+}
+
+nav ul{
+    width: 100%;
+    display: block;
+    text-align: center;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    
+}
+ul li a {
+    display: block;
+    color: rgb(62, 56, 25); 
+    text-decoration: none;
+}
+
+ul li a:hover {
+    background-color: rgb(178, 172, 140);
+    color: white; 
+}
+
+img{
+    float: left;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 14px; 
+    width: 40%;
+    height: 50%; 
+
+}
+.home img{
+    align-items: center;
+    width: 95%;
+    height: 100%;
+    margin-bottom: 25px;
+}
+
+.home article{
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20px;
+    background-color: #ECF0F1;
+    border: solid #95A5A6 2px;
+}
+
+.homeinfo{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    
+    text-align: center;
+}
+
+.Sun header{
+    background-color: rgb(208, 64, 64);
+    color: white; 
+    padding: 20px;
+    text-align:center;
+    margin: auto;
+    margin-bottom: 1rem;
+}
+.Sun ul li a:hover {
+    background-color: rgb(212, 150, 150);
+    color: white; 
+}
+
+.Mon header{
+    background-color: rgb(208, 189, 64);
+    color: white; 
+    padding: 20px;
+    text-align:center;
+    margin: auto;
+    margin-bottom: 1rem;
+}
+.Mon ul li a:hover {
+    background-color: rgb(222, 200, 111);
+    color: white; 
+}
+
+.Tue header{
+    background-color: rgb(212, 106, 168);
+    color: white; 
+    padding: 20px;
+    text-align:center;
+    margin: auto;
+    margin-bottom: 1rem;
+}
+.Tue ul li a:hover {
+    background-color: rgb(204, 153, 190);
+    color: white; 
+}
+
+.Wed header{
+    background-color: rgb(68, 133, 69);
+    color: white; 
+    padding: 20px;
+    text-align:center;
+    margin: auto;
+    margin-bottom: 1rem;
+}
+.Wed ul li a:hover {
+    background-color: rgb(133, 166, 128);
+    color: white; 
+}
+
+.Thu header{
+    background-color: rgb(194, 137, 57);
+    color: white; 
+    padding: 20px;
+    text-align:center;
+    margin: auto;
+    margin-bottom: 1rem;
+}
+.Thu ul li a:hover {
+    background-color: rgb(216, 184, 110);
+    color: white; 
+}
+
+.Fri header{
+    background-color: rgb(93, 135, 180);
+    color: white; 
+    padding: 20px;
+    text-align:center;
+    margin: auto;
+    margin-bottom: 1rem;
+}
+.Fri ul li a:hover {
+    background-color: rgb(141, 183, 218);
+    color: white; 
+}
+
+.Sat header{
+    background-color: rgb(126, 45, 150);
+    color: white; 
+    padding: 20px;
+    text-align:center;
+    margin: auto;
+    margin-bottom: 1rem;
+}
+.Sat ul li a:hover {
+    background-color: rgb(182, 102, 206);
+    color: white; 
+}
